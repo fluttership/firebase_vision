@@ -1,7 +1,7 @@
 # Fluttership
 
 Como utilizar este app
-https://www.youtube.com/channel/UCPY95qeSZhW2eRqE-VkqSzA
+https://youtu.be/aarGnvQW6jQ
 
 Site: https://fluttership.com.br
 Telegram: https://t.me/fluttership
