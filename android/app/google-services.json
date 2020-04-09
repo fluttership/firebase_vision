@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564781348609",
+    "firebase_url": "https://visionfluttership.firebaseio.com",
+    "project_id": "visionfluttership",
+    "storage_bucket": "visionfluttership.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564781348609:android:981f7329c5ad52b61a8d00",
+        "android_client_info": {
+          "package_name": "vision.flutter_app2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564781348609-fk472gid2j8dnmultancp66ra4maffuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo7LtxQyTmXvKXIDC8LKFJJR8FQdyxvg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564781348609-fk472gid2j8dnmultancp66ra4maffuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
